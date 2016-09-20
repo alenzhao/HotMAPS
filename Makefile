@@ -37,7 +37,7 @@ GROUP_FUNC=min
 # Paths to external tools/libraries
 ###################################
 # JAR files needed for BioJava
-BIOJAVA=lib/biojava3-core-3.1.0.jar:lib/biojava3-structure-3.1.0.jar
+BIOJAVA=lib/biojava-core-4.2.0.jar:lib/biojava-structure-4.2.0.jar:lib/biojava-alignment-4.2.0.jar:lib/slf4j-api-1.7.21.jar:lib/vecmath-1.5.2.jar
 
 ##################################################
 # Directories containing mutations and their 
